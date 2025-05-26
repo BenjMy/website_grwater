@@ -39,5 +39,6 @@ ignore:
   - environment.yml
   - Makefile
   - css/academicons/README.md
+  - contribute.md
   
 

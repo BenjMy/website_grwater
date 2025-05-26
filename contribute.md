@@ -17,15 +17,10 @@ https://www.markdownguide.org/basic-syntax/
 7. Press commit changes 
 
 
-
-
-
-
 ## To upload pictures
 
 
 {{ macros.figure(src="../images/news/NAMEOFMYPICTURE.jpg", alt="", caption="") }}
-
 
 
 ## Template
