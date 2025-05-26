@@ -1,6 +1,7 @@
 ---
 title: "ICA Annual Conference Sessions"
 date: 2025-05-08
+author: María Burguet
 ---
 
 {% import "macros.html" as macros %}
