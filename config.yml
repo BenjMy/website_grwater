@@ -36,6 +36,7 @@ ignore:
   - README.md
   - LICENSE.md
   - CONTRIBUTING.md
+  - contribute.md
   - environment.yml
   - Makefile
   - css/academicons/README.md
