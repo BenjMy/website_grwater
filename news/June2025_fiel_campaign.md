@@ -17,3 +17,6 @@ Sampling was conducted across plots with different **post-fire management treatm
 
 📸 **4. Multidisciplinary collaboration**  
 The fieldwork brought together experts in **soil science, geophysics, remote sensing, hydrology, and ecology**, showcasing the **integrative approach** of the GRwater project to address post-wildfire landscape challenges.
+
+![Fieldwork in Agramon (June 2025)](https://github.com/BenjMy/website_grwater/blob/main/images/Agram%C3%B3nfieldwork.jpg)
+*Fieldwork in Agramon (June 2025)*
